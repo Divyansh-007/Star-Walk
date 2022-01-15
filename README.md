@@ -1,5 +1,5 @@
 # Star Walk
-<b>Link:</b> https://starwalk.herokuapp.com/
+<b>Link:</b> https://divyansh-007.github.io/Star-Walk/
 
 A simple project to view Astronomical Picture Of the Day by NASA.
 
